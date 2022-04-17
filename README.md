@@ -1,2 +1,2 @@
 # InspetorRola
-Based on Reddit's PenisDetectorBot, this is my own discord bot to find hidden words. Enjoy ; )
+Baseado no PenisDetectorBot do Reddit, esse é o meu próprio bot detector de rola. Aproveite ;)
